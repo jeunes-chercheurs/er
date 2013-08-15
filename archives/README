@@ -1,0 +1,53 @@
+
+  Vous trouverez dans ce re'pertoire des publications de l'association
+  		Etudiants et Recherche
+  qui regroupait des e'tudiants de troisie`me cycle (DEA et the`se).
+
+** UNE BONNE PARTIE DE CES DOCUMENTS SONT AUSSI ACCESSIBLES PAR LE WEB EN **
+		http://garp.univ-bpclermont.fr/er
+  
+  Le fichier "presentation.texte" contient une version texte non formatte' 
+  (ASCII ou TXT) de la pre'sentation de l'association.
+  
+  Le reste des fichiers (*.ps) sont des fichiers PostScript imprimables sur 
+  n'importe quelle imprimante laser PostScript,
+  	- depuis le monde Unix, par 
+		lpr nom_du_fichier
+  	- depuis le monde Macintosh, par
+  		l'outil LaserWriter Utility (fonction Reglages/Telecharger ..)
+  	        	livre' avec le syste`me de tout Macintosh
+	- depuis le monde PC/DOS par
+		copy nom_du_fichier LPT1:
+
+  Ils contiennent :
+
+	- le guide de l'e'tudiant-chercheur regroupant en 30 pages
+	  toutes les informations reunies par l'association
+	  utiles au the'sard sur le de'roulement de sa the`se
+	  et de son apre`s-the`se (fichiers :
+			guide.ps (au format A4) 
+			guide_us.ps (au format US)
+			guide_envers.ps (au format A4, mais de la derniere
+				page a` la premiere)
+			lettre.guide.ps (pre'sentation du guide))
+
+	- les 25 bulletins d'information publie's par l'association 
+	  (fichiers bulletin1.ps a` bulletin25.ps dans le dossier bulletins) 
+
+	- la version PostScript 
+		- de la pre'sentation d'E&R		(presentation.ps)
+		- du texte pre'paratoire aux Etats Ge'ne'raux de mars 87 
+		  ecrit par E&R.  			(texte_prepa_eg.ps)
+		- du texte final aux Etats Ge'ne'raux de mars 87 sur
+		  le troisie`me cycle e'crit par E&R. 	(texte_final_eg.ps)
+		- de la plate-forme sur le 3`eme cycle re'dige'e par E&R
+	          en mars 89 avec le SNCS		(plateforme.ps)
+	
+	- la version PostScript du texte final des Etats
+		Ge'ne'raux de l'Universite' de mars 1987
+						(texte_etats_generaux_87.ps)
+	
+	- un texte sur les bourses europe'ennes		(Bourses_Europe)
+  
+  IMPORTANT : Merci enfin d'avoir l'obligeance de mentionner l'association 
+  si vous utilisez les textes ci-joints lors d'une citation.
